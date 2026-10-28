@@ -1,6 +1,4 @@
-
-
-# EduAdvisor — AI-Powered Academic Advising Assistant
+## EduAdvisor — AI-Powered Academic Advising Assistant
 > Answers student questions about courses, prerequisites, and graduation
 > requirements, grounded in official university PDF documents.
 ## Problem Statement
